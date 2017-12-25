@@ -5,7 +5,7 @@ Has routing options
 
 Animation is used
 
-an eample on how to pass ID in SEO type URL
+an example on how to pass ID in SEO type URL
 
 Used data service 
 
