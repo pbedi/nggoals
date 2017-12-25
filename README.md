@@ -1,8 +1,12 @@
 # Your Goals
-This is application to create your goals
+This is an application to create your goals
+
 Has routing options
+
 Animation is used
+
 an eample on how to pass ID in SEO type URL
+
 Used data service 
 
 Clone the project and use NPM install (You should have latest Angular Cli installed as on 24/12/2017)
